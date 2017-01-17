@@ -10,4 +10,11 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.abhinavbora.laserclash.Game">
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/to_Screen1"
+        android:id="@+id/switch_Screen1"/>
 </RelativeLayout>
+
+

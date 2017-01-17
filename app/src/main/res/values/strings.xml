@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Laser Clash</string>
     <string name="to_Screen2">Screen 2</string>
+    <string name="to_Screen1">Screen 1</string>
 </resources>
